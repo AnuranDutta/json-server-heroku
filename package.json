@@ -13,5 +13,13 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnuranDutta/json-server-heroku.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnuranDutta/json-server-heroku/issues"
+  },
+  "homepage": "https://github.com/AnuranDutta/json-server-heroku#readme"
 }
